@@ -1,0 +1,11 @@
+nome_aluno,telefone,data_ultimo_pagamento,status_pagamento,idas_no_mes,pontos_acumulados,faltas
+Ana Souza,(62) 99823-6851,2025-11-18,Pagante,11,110,0
+Bruno Lima,(62) 99705-2943,2025-11-22,Pagante,8,80,5
+Carlos Pereira,(62) 99584-4115,2025-11-29,Pagante,4,40,4
+Daniela Rocha,(62) 98507-7301,2025-12-04,Pendente,4,40,5
+Eduardo Alves,(62) 99102-4901,2025-11-10,Pendente,17,170,3
+Fernanda Melo,(62) 98239-5843,2025-12-02,Pagante,4,40,3
+Gabriel Santos,(62) 98652-3950,2025-11-15,Pagante,10,100,1
+Helena Duarte,(62) 98277-7331,2025-11-28,Pendente,15,150,5
+Igor Martins,(62) 98638-4873,2025-11-08,Pagante,11,110,2
+Julia Ferreira,(62) 98385-8113,2025-11-28,Pendente,16,160,4
